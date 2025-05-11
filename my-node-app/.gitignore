@@ -1,0 +1,17 @@
+# Node modules folder
+node_modules/
+
+# Environment variable file
+.env
+
+# Logs
+*.log
+
+# Debug folder
+npm-debug.log*
+
+# Optional: macOS files
+.DS_Store
+
+# Optional: Windows files
+Thumbs.db
